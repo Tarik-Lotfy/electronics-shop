@@ -4,7 +4,8 @@ A Flutter application for an electronics and computer shop, featuring product br
 
 ## Demo Video
 
-https://github.com/Tarik-Lotfy/electronics-shop/releases/download/v1.0/WhatsApp.Video.2025-04-14.at.00.31.16_ef4b1477.mp4
+
+https://github.com/user-attachments/assets/f4090e59-c97e-45c2-a34b-7d1917ce616c
 
 <video src="
 https://github.com/user-attachments/assets/f4090e59-c97e-45c2-a34b-7d1917ce616c" controls="controls" style="max-width: 730px;">
